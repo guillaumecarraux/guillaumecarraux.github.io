@@ -2,10 +2,10 @@ title: Guillaume Carraux
 description: I  have a website I guess
 theme: just-the-docs
 
-url: https://guillaumecarraux.github.io/website
+url: https://guillaumecarraux.github.io
 
 aux_links:
-  My Github: https://github.com/guillaumecarraux/website
+  My Github: https://github.com/guillaumecarraux
 
 defaults:
   - scope:

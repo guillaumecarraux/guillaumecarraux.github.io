@@ -6,4 +6,4 @@ nav_order: 4
 
 # Projects
 
-here you can read about my projects:
+I document here the projects that I consider notable. (what's notable is how empty it is :/ )
